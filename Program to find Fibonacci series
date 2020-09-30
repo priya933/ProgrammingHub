@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+int num1=0,num2=1,num3,i,terms;
+cout<<num1<<endl;
+cout<<num2<<endl;
+for(i=1;i<=terms;i++)
+{
+cout<<num3;
+num1=num2;
+num2=num3;
+num3=num1+num2;
+}
+return 0;
+}
